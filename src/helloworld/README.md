@@ -5,7 +5,7 @@ This code was inspired during studying Docker (Php, Apache, MySQL) and Laravel.
 <br>
 Following both tutorials:
 <ul>
-<li><a herf="https://laravel.tutorials24x7.com/blog/the-complete-guide-to-perform-crud-operations-in-laravel-framework"> The complete guide to perform crud operations in laravel framework</a></li>
+<li><a href="https://laravel.tutorials24x7.com/blog/the-complete-guide-to-perform-crud-operations-in-laravel-framework"> The complete guide to perform crud operations in laravel framework</a></li>
 <li>
 <a href="https://devops.tutorials24x7.com/blog/containerize-laravel-with-apache-mysql-and-mongodb-using-docker-containers">Containerize laravel with apache mysql and mongodb using docker containers</a>
 </li>
