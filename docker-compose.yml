@@ -31,7 +31,7 @@ services:
     image: mysql:8.0.27
     container_name: mysql
     environment:
-      MYSQL_ROOT_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: 'EZfCW!n2yEXp2I9d'
       MYSQL_DATABASE: helloworld
       MYSQL_USER: mvccruddemo
       MYSQL_PASSWORD: 'EZfCW!n2yEXp2I9d'
